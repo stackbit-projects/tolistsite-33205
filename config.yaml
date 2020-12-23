@@ -16,7 +16,7 @@ params:
         url: /style-guide
         style: link
       - label: Get Started
-        url: /contact
+        url: http
         style: primary
   footer:
     has_nav: true

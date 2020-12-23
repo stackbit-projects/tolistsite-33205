@@ -62,10 +62,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: Pricing
-    show_recent: false
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-

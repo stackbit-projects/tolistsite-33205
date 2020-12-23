@@ -12,9 +12,6 @@ params:
       - label: About
         url: /about
         style: link
-      - label: Style Guide
-        url: /style-guide
-        style: link
       - label: Get Started
         url: 'https://auth.tolist.io'
         style: primary

@@ -16,7 +16,7 @@ params:
         url: /style-guide
         style: link
       - label: Get Started
-        url: http
+        url: 'https://auth.tolist.io'
         style: primary
   footer:
     has_nav: true

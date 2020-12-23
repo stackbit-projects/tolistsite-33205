@@ -18,6 +18,7 @@ params:
       - label: Get Started
         url: 'https://auth.tolist.io'
         style: primary
+        new_window: true
   footer:
     has_nav: true
     nav_links:

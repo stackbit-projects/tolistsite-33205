@@ -2,7 +2,7 @@
 title: ToList
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: List Management for Low-Code
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.

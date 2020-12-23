@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Lists for Low-Code
     subtitle: >-
-      ToList lets you send messages to multiple people using your favotire
+      ToList lets you send messages to multiple people using your favorite
       low-code platforms
     actions:
       - label: Learn More

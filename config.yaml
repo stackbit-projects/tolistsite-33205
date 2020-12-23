@@ -15,7 +15,7 @@ params:
       - label: Style Guide
         url: /style-guide
         style: link
-      - label: Sign Up
+      - label: Get Started
         url: /contact
         style: primary
   footer:

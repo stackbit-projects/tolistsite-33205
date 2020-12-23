@@ -3,7 +3,7 @@ title: ToList
 sections:
   - type: hero_section
     title: Lists for Low-Code
-    subtitle: 'ToList '
+    subtitle: 'ToList lets you '
     actions:
       - label: Learn More
         url: /features

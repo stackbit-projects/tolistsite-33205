@@ -3,9 +3,7 @@ title: ToList
 sections:
   - type: hero_section
     title: Lists for Low-Code
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'ToList '
     actions:
       - label: Learn More
         url: /features
